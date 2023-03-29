@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Drawer</string>
+    <string name="textview">TextView</string>
+    <string name="name">Yu Han</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+        Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam. A
+        dipiscing at in tellus integer feugiat scelerisque varius morbi.
+        Sollicitudin nibh sit amet commodo. Nam aliquam sem et tortor.
+
+        Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet enim.
+        Consequat mauris nunc congue nisi vitae suscipit tellus. Arcu dui vivamus arcu
+
+        felis bibendum ut tristique. Mauris augue neque gravida in. Magnis dis
+        parturient montes nascetur. Adipiscing diam donec adipiscing tristique
+
+        risus nec feugiat in. Auctor elit sed vulputate mi sit amet mauris commodo quis.
+        Facilisis mauris sit amet massa vitae tortor condimentum lacinia. At erat
+
+        pellentesque adipiscing commodo elit at imperdiet. Nulla aliquet enim tortor at
+        auctor. Sit amet justo donec enim diam. Ornare arcu odio ut sem nulla pharetra
+
+        diam sit amet. Id diam maecenas ultricies mi. Egestas congue quisque egestas diam
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+
+        ut labore et dolore magna aliqua. Facilisis leo vel fringilla est ullamcorper
+        eget nulla facilisi etiam. Adipiscing at in tellus integer feugiat scelerisque
+
+        varius morbi. Sollicitudin nibh sit amet commodo. Nam aliquam sem et tortor.
+        Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet enim.
+
+        Consequat mauris nunc congue nisi vitae suscipit tellus. Arcu dui vivamus arcu
+        felis bibendum ut tristique. Mauris augue neque gravida in. Magnis dis parturient
+
+        montes nascetur. Adipiscing diam donec adipiscing tristique risus nec feugiat in.
+        Auctor elit sed vulputate mi sit amet mauris commodo quis. Facilisis mauris sit amet
+
+        massa vitae tortor condimentum lacinia. At erat pellentesque adipiscing commodo elit
+        at imperdiet. Nulla aliquet enim tortor at auctor. Sit amet justo donec enim diam.
+
+        Ornare arcu odio ut sem nulla pharetra diam sit amet. Id diam maecenas ultricies mi.
+        Egestas congue quisque egestas diam..</string>
+    <string name="what_is_your_nickname">whatisyournickname?</string>
+    <string name="done">Done</string>
+</resources>
